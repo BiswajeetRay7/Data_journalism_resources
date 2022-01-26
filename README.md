@@ -2,7 +2,6 @@
 
 A compilation of links to datajournalism & OSINT tools, guides and resources I find useful to keep at hand. PRs welcomed!
 
-<small>by [r3mlab](https://github.com/r3mlab) | License: [CC-BY-NC 4.0](LICENSE)</small>
 
 #### Legend:
 - :globe_with_meridians: = online tool/service/database
@@ -10,7 +9,6 @@ A compilation of links to datajournalism & OSINT tools, guides and resources I f
 - :book: = guide/tutorial
 - :pencil: = list of tools/resources
 - :snake: = Python module
-- 💲 = paid or paid-only tool/service
 
 ## Contents
 - [APIs](#apis)
